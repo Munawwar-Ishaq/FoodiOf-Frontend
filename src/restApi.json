@@ -1,0 +1,272 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "QUALITY FOOD",
+          "description": "Savor the excellence of quality food, where fresh ingredients and exceptional flavors come together in every dish."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "SUPER TASTE",
+          "description": "Experience super taste with every bite, crafted to deliver outstanding flavor and satisfaction."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "FAST DELIVERY",
+          "description": "Enjoy fast delivery, bringing your favorite dishes right to your door with speed and efficiency."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "./dinner1.jpeg",
+          "title": "ROASTED LAMB RUMP",
+          "category": "Dinner"
+        },
+        {
+          "id": 2,
+          "image": "./dinner2.png",
+          "title": "CITRUS CURED SALMON",
+          "category": "Dinner"
+        },
+        {
+          "id": 3,
+          "image": "./breakfast1.png",
+          "title": "PAN SEARED SEA BASS",
+          "category": "Breakfast"
+        },
+        {
+          "id": 4,
+          "image": "./dinner3.png",
+          "title": "STUFFED STRAWBERRY",
+          "category": "Dinner"
+        },
+        {
+          "id": 5,
+          "image": "./lunch1.png",
+          "title": "BEEF BURGER MEAL",
+          "category": "Lunch"
+        },
+        {
+          "id": 6,
+          "image": "./dinner4.png",
+          "title": "MUSSELS SOUP",
+          "category": "Dinner"
+        },
+        {
+          "id": 7,
+          "image": "./dinner5.png",
+          "title": "ITALIAN SPAGHETTI",
+          "category": "Dinner"
+        },
+        {
+          "id": 8,
+          "image": "./dinner6.png",
+          "title": "GRILLED FISH",
+          "category": "Dinner"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./team_member_1.png",
+          "name": "JOHNATHAN TYLER",
+          "designation": "Founder & Head Chef"
+        },
+        {
+          "id": 2,
+          "image": "./team_member_2.png",
+          "name": "WADE WARREN",
+          "designation": "Sous Chef"
+        },
+        {
+          "id": 3,
+          "image": "./team_member_3.png",
+          "name": "JHON DOE",
+          "designation": "Fast Food Chef"
+        },
+        {
+          "id": 4,
+          "image": "./team_member_4.png",
+          "name": "ALEX COAL",
+          "designation": "Senior Chef"
+        }
+      ],
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "./review1.png",
+          "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+          "rating": 4,
+          "userName": "Jane Cooper"
+        },
+        {
+          "id": 2,
+          "image": "./review2.png",
+          "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+          "rating": 4.5,
+          "userName": "Esther Howard"
+        },
+        {
+          "id": 3,
+          "image": "./review3.png",
+          "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+          "rating": 5,
+          "userName": "Guy Hawkins"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "14",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "20",
+          "title": "Chef In Kitchen"
+        },
+        {
+          "id": 3,
+          "number": "08",
+          "title": "Years Of Experience"
+        },
+        {
+          "id": 4,
+          "number": "200",
+          "title": "Food Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "RESERVATION",
+          "link": "reservation"
+        }
+      ],
+      "menu": [
+        {
+          "id": 1,
+          "image": "https://www.eatingwell.com/thmb/5WPPXV5n1fFOKXSeO8s3D2KXIGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EatingWell-April-Avocado-Toast-Directions-03-23712072b7df44b8b3cd87681700e67b.jpg",
+          "title": "Avocado Toast",
+          "category": "Appetizer"
+        },
+        {
+          "id": 2,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5hmYmzczs981DPmtSYqGGdHPznI2SCkiHDw&s",
+          "title": "Sushi",
+          "category": "Main Course"
+        },
+        {
+          "id": 3,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLycaEgWWoJle4VQukgeltr-zGK--wM9ffXg&s",
+          "title": "Poke Bowl",
+          "category": "Main Course"
+        },
+        {
+          "id": 4,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMKwPHphv7OF-BjFFXVduk59Dl6aNqSGz5Q&s",
+          "title": "Tacos",
+          "category": "Main Course"
+        },
+        {
+          "id": 5,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc3N5ti_bACIYyPXE2PAE3jFAQX-knH_6tcA&s",
+          "title": "Truffle Pasta",
+          "category": "Main Course"
+        },
+        {
+          "id": 6,
+          "image": "https://i.shgcdn.com/3b9bc69b-238c-4c31-a0b4-379043013777/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+          "title": "Charcuterie Board",
+          "category": "Appetizer"
+        },
+        {
+          "id": 7,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC3aaCDqbGphOZ6NDiTi0aX9CRhaqAHvCnNg&s",
+          "title": "Bao Buns",
+          "category": "Appetizer"
+        },
+        {
+          "id": 8,
+          "image": "https://theplantbasedschool.com/wp-content/uploads/2023/06/Buddha-bowl-no-sauce-2.jpg",
+          "title": "Buddha Bowl",
+          "category": "Main Course"
+        },
+        {
+          "id": 9,
+          "image": "https://assets.bonappetit.com/photos/58a6240fa9bc8a7a3f1cfada/4:3/w_4443,h_3332,c_limit/classic-miso-soup.jpg",
+          "title": "Miso Soup",
+          "category": "Appetizer"
+        },
+        {
+          "id": 10,
+          "image": "https://i.ytimg.com/vi/MhD3B-cUNgc/maxresdefault.jpg",
+          "title": "Korean BBQ",
+          "category": "Main Course"
+        },
+        {
+          "id": 11,
+          "image": "https://nomnompaleo.com/wp-content/uploads/2024/03/1200-Oven-Baked-Sweet-Potato-Fries-02a.jpg",
+          "title": "Sweet Potato Fries",
+          "category": "Side Dish"
+        },
+        {
+          "id": 12,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9slwABGGb3xZn9QCxZCZZPZMRsmVYbJEzA&s",
+          "title": "Shakshuka",
+          "category": "Breakfast"
+        },
+        {
+          "id": 13,
+          "image": "https://media.istockphoto.com/id/1302436326/photo/junk-food-homemade-beef-burgers-on-vintage-wooden-background.jpg?s=612x612&w=0&k=20&c=NsyDE31unoNd80wGfrkMOqvsnjeNOpHER-yL_8KwcRw=",
+          "title": "Gourmet Burger",
+          "category": "Main Course"
+        },
+        {
+          "id": 14,
+          "image": "https://www.allrecipes.com/thmb/NlP50cO2BjJdN4uGvl5JhW0Rx2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-72567-Panna-cotta-ddmfs-4x3-14ae724a2a8e4ca3a79c5e27b2b61994.jpg",
+          "title": "Panna Cotta",
+          "category": "Dessert"
+        },
+        {
+          "id": 15,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxWnzY1ei28j8v1GmEV7sILBL3l-XMJMK_EA&s",
+          "title": "Acai Bowl",
+          "category": "Breakfast"
+        },
+        {
+          "id": 16,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUGFNqzxlZBzsQl08CZa4wSn5PrrGIK0snA&s",
+          "title": "Raspberry Macaron",
+          "category": "Dessert"
+        }
+      ]
+    }
+  ]
+}
